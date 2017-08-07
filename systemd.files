@@ -1,0 +1,6 @@
+export systemd=/etc/systemd
+export S=$systemd
+
+export journald=$S/journald.conf
+
+export timesyncd=$S/timesyncd.conf

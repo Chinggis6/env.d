@@ -1,0 +1,9 @@
+export EDITOR=vim
+export BROWSER=qutebrowser
+export PAGER=less
+export TERM=rxvt-unicode # xterm
+
+export CDPATH=\
+/dbx:\
+/dbx/srv:\
+/dbx/srv/lab:\
